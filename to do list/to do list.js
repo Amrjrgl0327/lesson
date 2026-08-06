@@ -1,5 +1,5 @@
-const input = document.querySelector(".header input");
-const addBtn = document.querySelector(".header button");
+const input = document.querySelector(".input-box");
+const addBtn = document.querySelector(".text");
 const list = document.querySelector(".list");
 
 addBtn.addEventListener("click", () => {
